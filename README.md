@@ -1,1 +1,1 @@
-# password_generator
+# password_generator.py - パスワード作成
